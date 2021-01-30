@@ -10,5 +10,5 @@ The objective of this challenge was to write code that will create a table dynam
 
 ## Result
 
-The app.js file will allow users to filter the table data by date only using pure JavaScript, HTML, and CSS, and D3.js on our web pages.
+The app.js file will allow users to filter the table data by date only using pure JavaScript, HTML, and CSS, and D3.js on our web pages. Additionally, you can visit this site to check out the end result https://katrinan029.github.io/javascript-challenge/.
 
